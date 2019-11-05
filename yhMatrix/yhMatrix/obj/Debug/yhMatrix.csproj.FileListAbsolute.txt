@@ -1,0 +1,14 @@
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhMatrix_20191105\yhMatrix\yhMatrix\obj\Debug\yhMatrix.csprojAssemblyReference.cache
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhMatrix_20191105\yhMatrix\yhMatrix\obj\Debug\yhMatrix.csproj.CoreCompileInputs.cache
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhMatrix_20191105\yhMatrix\yhMatrix\bin\Accord.dll.config
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhMatrix_20191105\yhMatrix\yhMatrix\bin\yhMatrix.dll
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhMatrix_20191105\yhMatrix\yhMatrix\bin\yhMatrix.pdb
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhMatrix_20191105\yhMatrix\yhMatrix\bin\Accord.dll
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhMatrix_20191105\yhMatrix\yhMatrix\bin\Accord.Math.Core.dll
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhMatrix_20191105\yhMatrix\yhMatrix\bin\Accord.Math.dll
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhMatrix_20191105\yhMatrix\yhMatrix\bin\Accord.xml
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhMatrix_20191105\yhMatrix\yhMatrix\bin\Accord.Math.xml
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhMatrix_20191105\yhMatrix\yhMatrix\bin\Accord.Math.Core.xml
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhMatrix_20191105\yhMatrix\yhMatrix\obj\Debug\yhMatrix.csproj.CopyComplete
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhMatrix_20191105\yhMatrix\yhMatrix\obj\Debug\yhMatrix.dll
+C:\Users\yh2173\Desktop\3.OctProjects\3.0VisualStudioFiles\GridShell\yhMatrix_20191105\yhMatrix\yhMatrix\obj\Debug\yhMatrix.pdb
